@@ -1,0 +1,16 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "my first proj with node",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "intro",
+    "myfirstproj"
+  ],
+  "author": "alexiessaenz",
+  "license": "ISC"
+}

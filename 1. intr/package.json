@@ -4,6 +4,8 @@
   "description": "my first proj with node",
   "main": "index",
   "scripts": {
+    "start": "node index.js",
+    "say": "echo \"Hello World!\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

@@ -7,3 +7,19 @@ for (let element of arr) {
 arr.forEach(element => {
     console.log(element);
 });
+
+let persona = {
+    nombre: "Juan",
+    apellido: "Perez",
+    edad: 28,
+    direccion: {
+        calle: "Calle falsa",
+        numero: 123
+    }
+}
+var prop = "nombre";
+console.log(persona[prop]);
+
+for (let key in persona) {
+    console.log(persona[key]);
+}
